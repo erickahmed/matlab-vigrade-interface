@@ -1,0 +1,9 @@
+# Folders
+config
+database
+
+# Objects
+*.asv
+
+# Specific ignores
+ignoreme.txt
